@@ -8,7 +8,7 @@ with tarefas you can:
 * add and edit future tasks as well
 * keep a record of past tasks (unless deleted)
 
-it's just four buttons:
+it's just four buttons:  
 ➕ add new task  
 ✖️ delete selected task(s)  
 ✔️ cross out selected task(s)  
