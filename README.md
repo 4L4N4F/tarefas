@@ -15,4 +15,6 @@ it's just four buttons:
 ✔️ cross out selected task(s)  
 ➡️ postpone selected task(s) to the next day
 
+as of now, windows only.
+
 developed by coding beginner 4L4N4F in 2025 as a first endeavor in pyhton.
