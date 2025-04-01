@@ -9,9 +9,9 @@ with tarefas you can:
 * keep a record of past tasks (unless deleted)
 
 it's just four buttons:
-➕ add new task
-✖️ delete selected task(s)
-✔️ cross out selected task(s)
+➕ add new task  
+✖️ delete selected task(s)  
+✔️ cross out selected task(s)  
 ➡️ postpone selected task(s) to the next day
 
 developed by coding beginner 4L4N4F in 2025 as a first endeavor in pyhton.
